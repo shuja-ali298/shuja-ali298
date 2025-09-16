@@ -1,13 +1,17 @@
-### Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**shuja-ali298/shuja-ali298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently working as a **Graduate Programmer** at Katalyze Data
+🎓 **Politics & Data Science graduate** from the London School of Economics  
+💡 Passionate about **data engineering, analytics, and automation**  
+🌍 Dreaming of moving to **Japan** and building a career in tech  
+🥊 Outside of tech, I train in **boxing** and enjoy learning **Japanese**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on my ds105 project
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- 🛠️ **Data Engineering Pipelines** → automated data collection with GitHub Actions  
+- 📊 **Data Science & Analytics** → predictive modelling, A/B testing, clustering  
+- 🗺️ **Geospatial Analysis** → mapping and analysing civic & crime data  
+- ☁️ **Cloud Tools** → starting with AWS & Azure fundamentals  
+
+---
