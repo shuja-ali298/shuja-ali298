@@ -3,8 +3,24 @@
 💼 Currently a **Graduate Programmer** at Katalyze Data  
 🎓 **Politics & Data Science graduate** from the London School of Economics and Political Science (LSE)  
 💡 Enthusiastic about **data engineering, analytics, and automation**  
-🌍 Aiming to build a **global career in tech** (long-term goal: Japan 🇯🇵)  
+🌍 Aiming to build a **global career in tech**  
 🥊 Outside of tech, I train in **boxing** and enjoy learning **Japanese**  
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4500?logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+---
+
+## 💼 Professional Projects
+- 📰 **Civic Data Pipeline** → Automated FixMyStreet & Police API integration with GitHub Actions
+- 🌍 **Geospatial Mapping** → Jupyter notebooks analysing housing, crime, and transport data  
 
 ---
 
