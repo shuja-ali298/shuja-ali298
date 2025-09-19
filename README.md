@@ -20,7 +20,8 @@
 
 ## 💼 Professional Projects
 - 📰 **Civic Data Pipeline** → Automated FixMyStreet & Police API integration with GitHub Actions
-- 🌍 **Geospatial Mapping** → Jupyter notebooks analysing housing, crime, and transport data  
+- 🌍 **Geospatial Mapping** → Jupyter notebooks analysing housing, crime, and transport data
+- - 📊 **Kent Police: Anti-Social Behaviour Analysis** → Pre-interview task analysing ASB in Kent vs national trends, time-series evaluation, and policy recommendations ([repo](https://github.com/shuja-ali298/kent_police))
 
 ---
 
