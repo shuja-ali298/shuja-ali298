@@ -15,3 +15,7 @@
 - ☁️ **Cloud Tools** → starting with AWS & Azure fundamentals  
 
 ---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuja-ali-397a8322a/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shuja_a04/)
