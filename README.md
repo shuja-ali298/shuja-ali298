@@ -3,7 +3,7 @@
 💼 Currently working as a **Graduate Programmer** at Katalyze Data
 🎓 **Politics & Data Science graduate** from the London School of Economics  
 💡 Passionate about **data engineering, analytics, and automation**  
-🌍 Dreaming of moving to **Japan** and building a career in tech  
+🌍 Dreaming of building a global career in tech  
 🥊 Outside of tech, I train in **boxing** and enjoy learning **Japanese**
 
 ---
