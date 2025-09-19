@@ -35,12 +35,13 @@
 
 ## 📂 Featured University Projects
 Check out my [**Uni-Projects**](https://github.com/shuja-ali298/Uni-Projects) repo:  
-- 📄 **ST310: Machine Learning** → predictive modelling competitions, GAMs, XGBoost  
+- 📄 **ST310: Machine Learning** → predictive modelling competitions, GAMs, decision trees, SVMs  
 - 📊 **ST205: Surveys & Sampling** → statistical sampling & estimation methods  
 - ⚖️ **ST313: Ethics of Data Science** → fairness, bias, and critical analysis of flawed studies  
-- 🔍 **ST211: Applied Regression** → modelling debt and income in UK youth cohort data  
+- 📈 **ST211: Applied Regression** → modelling **youth education perfor
 - 🗳️ **GV330: Data Science Applications to Politics Research** → replication project on predictive policing
-- 🎥 **DS105: Movies Project** → cross-platform movie rating comparisons (75/100)  
+- 🎥 **DS105: Movies Project** → cross-platform movie rating comparisons
+- 🤖 **DS202: Data Science for Social Scientists** → applied social science modelling (UK GDP, public finance, 24h exam on diabetes/drug reviews)  
 
 ---
 
