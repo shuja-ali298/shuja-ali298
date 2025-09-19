@@ -38,7 +38,8 @@ Check out my [**Uni-Projects**](https://github.com/shuja-ali298/Uni-Projects) re
 - 📊 **ST205: Surveys & Sampling** → statistical sampling & estimation methods  
 - ⚖️ **ST313: Ethics of Data Science** → fairness, bias, and critical analysis of flawed studies  
 - 🔍 **ST211: Applied Regression** → modelling debt and income in UK youth cohort data  
-- 🗳️ **GV330: Data Science Applications to Politics Research** → replication project on predictive policing  
+- 🗳️ **GV330: Data Science Applications to Politics Research** → replication project on predictive policing
+- 🎥 **DS105: Movies Project** → cross-platform movie rating comparisons (75/100)  
 
 ---
 
