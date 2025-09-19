@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shuja Ali!
+# Hello there 👋, I'm Shuja Ali!
 
 💼 Currently a **Graduate Programmer** at Katalyze Data  
 🎓 **Politics & Data Science graduate** from the London School of Economics and Political Science (LSE)  
