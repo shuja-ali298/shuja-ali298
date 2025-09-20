@@ -40,7 +40,7 @@ Check out my [**Uni-Projects**](https://github.com/shuja-ali298/Uni-Projects) re
 - 📄 **ST310: Machine Learning** → predictive modelling competitions, GAMs, decision trees, SVMs  
 - 📊 **ST205: Surveys & Sampling** → statistical sampling & estimation methods  
 - ⚖️ **ST313: Ethics of Data Science** → fairness, bias, and critical analysis of flawed studies  
-- 📈 **ST211: Applied Regression** → modelling **youth education perfor
+- 📈 **ST211: Applied Regression** → modelling **youth education performance** (GCSE outcomes) using socio-economic predictors
 - 🗳️ **GV330: Data Science Applications to Politics Research** → replication project on predictive policing
 - 🎥 **DS105: Movies Project** → cross-platform movie rating comparisons
 - 🤖 **DS202: Data Science for Social Scientists** → applied social science modelling (UK GDP, public finance, 24h exam on diabetes/drug reviews)  
