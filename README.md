@@ -47,6 +47,11 @@ Check out my [**Uni-Projects**](https://github.com/shuja-ali298/Uni-Projects) re
 
 ---
 
+## 📄 My CV
+You can view my CV here: [Download CV (PDF)](https://github.com/shuja-ali298/shuja-ali298/blob/main/cv_subhan_ali_github.pdf)
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shuja-ali-397a8322a/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shuja_a04/)  
