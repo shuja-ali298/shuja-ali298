@@ -24,7 +24,8 @@
 - 📰 **Civic Data Pipeline** → Automated FixMyStreet & Police API integration with GitHub Actions
 - 🌍 **Geospatial Mapping** → Jupyter notebooks analysing housing, crime, and transport data
 - 📊 **Kent Police: Anti-Social Behaviour Analysis** → Pre-interview task analysing ASB in Kent vs national trends, time-series evaluation, and policy recommendations ([repo](https://github.com/shuja-ali298/kent_police))
-- 📝 **Textual Analysis** → NLP projects (topic modelling, sentiment, qualitative text exploration) 
+- 📝 **Textual Analysis** → NLP projects (topic modelling, sentiment, qualitative text exploration)
+- 🤖 **AI Chatbot (BCG Certification)** → Lightweight financial Q&A bot with fuzzy matching, CLI + Flask API ([repo](https://github.com/shuja-ali298/bcg-ai-chatbot))
 
 ---
 
