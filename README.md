@@ -39,7 +39,7 @@
 
 ## 📂 Featured University Projects
 Check out my [**Uni-Projects**](https://github.com/shuja-ali298/Uni-Projects) repo:  
-- 📄 **ST310: Machine Learning** → predictive modelling competitions, GAMs, decision trees, SVMs  
+- 📄 **ST310: Machine Learning** → predictive modelling competitions, GAMs (additive models), decision trees, SVMs, regularisation
 - 📊 **ST205: Surveys & Sampling** → statistical sampling & estimation methods  
 - ⚖️ **ST313: Ethics of Data Science** → fairness, bias, and critical analysis of flawed studies  
 - 📈 **ST211: Applied Regression** → modelling **youth education performance** (GCSE outcomes) using socio-economic predictors
