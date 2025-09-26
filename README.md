@@ -4,7 +4,7 @@
 🎓 **Politics & Data Science graduate** from the London School of Economics and Political Science (LSE)  
 💡 Enthusiastic about **data engineering, analytics, and automation**  
 🌍 Aiming to build a **global career in tech**  
-🥊 Outside of tech, I train in **boxing**, enjoy learning **Arabic** and **Japanese**, and love **reading books**, especially on tech and data science
+🥊 Outside of tech, I train in **boxing**, enjoy learning **Arabic** and **Japanese**, and love **reading books**
 
 ---
 
